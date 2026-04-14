@@ -360,7 +360,7 @@ Understanding this will help you configure the keywords effectively.
 
 ## 11. Full Script
 
-Copy the entire script below, make your changes in the CONFIG section, and paste it into ScriptRunner.
+Access script. Groovy in this repo or copy the entire script below, make your changes in the CONFIG section, and paste it into ScriptRunner.
 
 ```groovy
 // ============================================================
